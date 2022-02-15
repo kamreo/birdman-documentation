@@ -23,15 +23,15 @@
       subMaxLevel: 2,
       search: 'auto',
       name: 'Birdman documentation',
+      subMaxLevel: 6,
       search: {
-        noData: {
-          '/': 'No results!'
-        },
+        maxAge: 86400000, // Expiration time, the default one day
         paths: 'auto',
-        placeholder: {
-          '/': 'Search'
-        }
-      },
+        placeholder: 'Type to search',
+        noData: 'No Results!',
+        depth: 6,
+        hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+     },
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
