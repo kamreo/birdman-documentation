@@ -17,8 +17,3 @@ Curabitur amet sed voluptas convallis, urna sodales vivamus dui id minim eget, d
 
 ## [Example of link](https://github.com/kamreo/birdman-documentation)
 
-# [Game concept](concept.md)
-# [Code documentation](code.md)
-# [Ideas and tutourials](ideas.md)
-# [Example of docsify usage](/)
-
