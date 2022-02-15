@@ -16,3 +16,9 @@ Tempus etiam, justo nullam vel eros et. Conubia integer. Amet elit nulla, eu tor
 Curabitur amet sed voluptas convallis, urna sodales vivamus dui id minim eget, dapibus nostra dignissim, vestibulum mauris a tortor morbi lobortis eu, felis odio. Eu ligula taciti cras, faucibus ac vel quis donec sodales. Lacinia euismod sed semper donec. Magna aliquam sed non, vestibulum cursus sed ut vivamus felis porttitor, vestibulum nibh augue a pede, vehicula integer ut nunc proin. 
 
 ## [Example of link](https://github.com/kamreo/birdman-documentation)
+
+# [Game concept](concept.md)
+# [Code documentation](code.md)
+# [Ideas and tutourials](ideas.md)
+# [Example of docsify usage](/)
+
