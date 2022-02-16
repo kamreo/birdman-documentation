@@ -4,7 +4,7 @@ An RPG game where you start in a village and explore dark fantasy world. At the 
 You can buy and upgrade weapons in a village and regenerate before next fight. 
 
 A concept for a village </br>
-![Village](./images/village.png)
+![Village](../images/village.png)
 
 A concept for a dungeon </br>
-![Village](./images/dungeon.png)
+![Village](../images/dungeon.png)
