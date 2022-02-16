@@ -1,5 +1,6 @@
 # Useful links
-Below are links to any useful thing we stumbled upon (like YT videos, tutorials, forum discussions etc.)
+
+> This page stores links to any useful thing we stumbled upon (like YT videos, tutorials, forum discussions etc.).
 
 ### Youtube
 + [Escaping animator hell](https://www.youtube.com/watch?v=nBkiSJ5z-hE)
