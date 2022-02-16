@@ -1,6 +1,6 @@
 # Ideas
 
-On this page we throw ideas we were thinking about but they are not guaranteed to be in game.
+> On this page we throw ideas we were thinking about but they are not guaranteed to be in game.
 
 
 ### Graphics
