@@ -1,5 +1,6 @@
 # Concepts
-On this view we present you the ideas that made into the game!
+
+> On this view we present you the ideas that made into the game!
 
 ### Main concept
 An RPG game where you start in a village and explore dark fantasy world. At the end of each level there's a boss fight waiting for you! 
