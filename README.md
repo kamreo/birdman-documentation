@@ -1,7 +1,8 @@
 # BIRDMAN
 
-> Pixelart 2D top-down RPG game made by group of friends in Unity.
-> You are headless creature who got a chance to change into something else. But in what? Play and check yourself!
+> Pixelart 2D top-down RPG game made by group of friends in Unity.  
+> You are headless creature who got a chance to change into something else.  
+> But in what? Play and check yourself!
 
 Birdman documentation to maintain the project properly.
 
