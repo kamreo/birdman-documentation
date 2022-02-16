@@ -1,3 +1,6 @@
+# Technology documentation
+This page keeps track on every technology we used in our project.
+
 # A* Pathfinding 
 For our enemies we use A* pathfinding algorythm which is a graph traversal and path search algorithm, which is often used in many fields of computer science
 due to its completeness, optimality, and optimal efficiency.
