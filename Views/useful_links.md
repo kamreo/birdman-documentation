@@ -3,6 +3,10 @@
 > This page stores links to any useful thing we stumbled upon (like YT videos, tutorials, forum discussions etc.).
 
 ### Youtube
++ [Full RPG 2D tut](https://www.youtube.com/watch?v=Pk3GCgaNVTY&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm&index=1)
+
++ [2D movement with colliders](https://www.youtube.com/watch?v=Cry7FOHZGN4&t=1s)
+
 + [Escaping animator hell](https://www.youtube.com/watch?v=nBkiSJ5z-hE)
 
 + [Git control version](https://www.youtube.com/watch?v=TbdWXbRlPo0&ab_channel=WilmerLinGASchool)
