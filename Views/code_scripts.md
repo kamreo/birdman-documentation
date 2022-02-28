@@ -14,7 +14,7 @@ Used scripts:
 
 > Provides basic data to use in situations such as fight or leveling up  
 > Stat class uses ``baseValue``, ``flatIncome``, ``percentIncome`` to calculate true value ([code here](https://github.com/kamreo/birdman/blob/develop/Assets/_SCRIPTS/Player/Stat.cs))  
-> It can be reworked in future to better fit items system  
+> It can be reworked in future to better fit items system.  
 
 ### Inventory system
 Used scripts:
@@ -33,8 +33,8 @@ Used scripts:
 > Every item has size but cannot be rotated.  
 > Items on ground are shown as 'name text frames'.  
 > Items in inventory have background highlighter and built-up description.  
-> Description contains: (always) item name, requierements, base and additional stats.
-> Certain type of items can be equipped in suitable slots and provide profits to player.
+> Description contains: (always) item name, requierements, base and additional stats.  
+> Certain type of items can be equipped in suitable slots and provide profits to player.  
 
 ### Item data
 Used scripts:
@@ -48,7 +48,7 @@ Used scripts:
 * EquipmentSlotTypes (enum)
 * ItemRariry (enum)
 
-> Provides data to items, mainly requierements, base and additional stats.
-> ItemStatSO calculates tier value and rand stat value within min and max range.
-> `` Tier = 6 / 80 * itemLevel + Random.Range(0, 2);``
+> Provides data to items, mainly requierements, base and additional stats.  
+> ItemStatSO calculates tier value and rand stat value within min and max range.  
+> `` Tier = 6 / 80 * itemLevel + Random.Range(0, 2);``  
 > Tier values are from 0 to 5 (inclusive) and item level from 0 to 80 (inclusive)
