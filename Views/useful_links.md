@@ -17,6 +17,8 @@
 
 + [Essentail maths for game devs](https://www.youtube.com/watch?v=DPfxjQ6sqrc&ab_channel=javidx9)
 
++ [Grid Inventory in Unity Tutorial Tile based inventory in Unity](https://www.youtube.com/watch?v=2ajD1GDbEzA&ab_channel=GregDevStuff)
+
 ### Text tutorials
 
 ### Forum discussions
